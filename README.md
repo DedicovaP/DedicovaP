@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning R, Git and everything around research data management
-- 📫 How to reach me: https://www.vut.cz/lide/petra-dedicova-57166
+- 📫 How to reach me: https://www.vut.cz/en/people/petra-dedicova-57166
    
 
 <!--
